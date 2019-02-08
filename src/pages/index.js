@@ -11,7 +11,6 @@ const IndexPage = () => (
     <h1>0ff1c14l t3ss3r4l1s fan site</h1>
     <p>Welc0me 2 the 0ff1c14l t3ss3r4l1s f4n clVb.</p>
     <p>H3r3 U c4n pr41s3 th3 b34Vt1fVl, t4l3nt3d g3n1Vs th4t 1s t3ss3r4l1s</p>
-    <p>Pr41s3 m3.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
