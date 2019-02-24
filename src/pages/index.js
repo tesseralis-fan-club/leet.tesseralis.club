@@ -7,17 +7,10 @@ import SEO from '../components/seo'
 
 const IndexPage = () => (
   <Layout>
-<<<<<<< HEAD
-    <SEO title="Home" keywords={[`awesome`, `nat`, `tess`]} />
+    <SEO title="Home" keywords={['nat', 'tess', 'alison']} />
     <h1>0ff1c14l @t3ss3r4l1s fan site</h1>
     <p>Welc0me 2 the 0ff1c14l t3ss3r4l1s f4n clVb.</p>
     <p>H3r3 U c4n pr41s3 th3 b34Vt1fVl, t4l3nt3d g3n1Vs th4t 1s t3ss3r4l1s</p>
-=======
-    <SEO title="Home" keywords={['nat', 'tess', 'alison']} />
-    <h1>Official @tesseralis fan site</h1>
-    <p>Welcome to the official tesseralis fan club.</p>
-    <p>Here you can praise the beautiful, talented genius that is tesseralis</p>
->>>>>>> 623f3a02e4e69cb565d8e5d023e65a1ca7822634
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
